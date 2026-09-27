@@ -1,0 +1,6 @@
+.build/
+.swiftpm/
+TypingPetMac.app/
+TypingPetMac.zip
+dist_out/
+.DS_Store
